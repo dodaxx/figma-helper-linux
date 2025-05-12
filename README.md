@@ -9,7 +9,7 @@
 ## Run
 
 ```bash
-  npm install
+  npm start
 ```
 
 Don’t forget to install this Chrome extension (I tested it on Chrome — not sure about other browsers yet):
